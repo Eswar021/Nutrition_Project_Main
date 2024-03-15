@@ -1,0 +1,131 @@
+,Vitamin,Disease,Age Group,Gender,links
+0,vitamin-a,Night blindness,Children,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+1,vitamin-a,Xerophthalmia,Children,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+2,vitamin-a,Keratomalacia,Children,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+3,vitamin-a,Bitot's spots,Children,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+4,vitamin-a,Hyperkeratosis,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+5,vitamin-a,Infectious diseases susceptibility,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+6,vitamin-a,Impaired immune function,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+7,vitamin-a,Dry skin,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+8,vitamin-a,Blindness,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+9,vitamin-a,Infertility,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-a
+10,vitamin-b1,Beriberi,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+11,vitamin-b1,Wernicke-Korsakoff syndrome,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+12,vitamin-b1,Confusion,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+13,vitamin-b1,Muscle weakness,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+14,vitamin-b1,Peripheral neuropathy,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+15,vitamin-b1,Cardiovascular problems,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+16,vitamin-b1,Edema,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+17,vitamin-b1,Nystagmus,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+18,vitamin-b1,Ataxia,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+19,vitamin-b1,Memory loss,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b1
+20,vitamin-b2,Ariboflavinosis,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+21,vitamin-b2,Migraine headaches,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+22,vitamin-b2,Sore throat,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+23,vitamin-b2,"Red, itchy eyes",Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+24,vitamin-b2,Swollen and cracked lips,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+25,vitamin-b2,Inflamed tongue,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+26,vitamin-b2,Cheilosis,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+27,vitamin-b2,Magenta tongue,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+28,vitamin-b2,Scrotal dermatitis,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+29,vitamin-b2,Peripheral neuropathy,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2
+30,vitamin-b3,Pellagra,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+31,vitamin-b3,Dermatitis,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+32,vitamin-b3,Diarrhea,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+33,vitamin-b3,Dementia,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+34,vitamin-b3,Inflammation of the mouth,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+35,vitamin-b3,Bright red tongue,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+36,vitamin-b3,Pigmented rash,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+37,vitamin-b3,Vomiting,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+38,vitamin-b3,Hyperpigmentation,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+39,vitamin-b3,Weakness,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3
+40,vitamin-b5,Paresthesia,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+41,vitamin-b5,Fatigue,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+42,vitamin-b5,Irritability,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+43,vitamin-b5,Sleep disturbances,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+44,vitamin-b5,Stomach pains,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+45,vitamin-b5,Vomiting,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+46,vitamin-b5,Burning feet syndrome,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+47,vitamin-b5,Upper respiratory infections,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+48,vitamin-b5,Muscle cramps,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+49,vitamin-b5,Tingling sensations,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5
+50,vitamin-b6,Anemia,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+51,vitamin-b6,Dermatitis,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+52,vitamin-b6,Neuropathy,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+53,vitamin-b6,Seizures,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+54,vitamin-b6,Depression,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+55,vitamin-b6,Confusion,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+56,vitamin-b6,Weakened immune function,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+57,vitamin-b6,Cognitive decline,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+58,vitamin-b6,Microcytic anemia,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+59,vitamin-b6,Homocysteine buildup,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b6
+60,vitamin-b7,Dermatitis,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+61,vitamin-b7,Enteritis,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+62,vitamin-b7,Alopecia,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+63,vitamin-b7,Brittle nails,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+64,vitamin-b7,Conjunctivitis,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+65,vitamin-b7,Depression,Elderly,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+66,vitamin-b7,Hallucinations,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+67,vitamin-b7,Insomnia,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+68,vitamin-b7,Seborrheic dermatitis,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+69,vitamin-b7,Thinning hair,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7
+70,vitamin-b9,Megaloblastic Anemia,Pregnant Women,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+71,vitamin-b9,Neural Tube Defects,Pregnant Women,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+72,vitamin-b9,Low birth weight,Infants,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+73,vitamin-b9,Preterm birth,Infants,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+74,vitamin-b9,Fetal growth restriction,Infants,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+75,vitamin-b9,Developmental delay,Children,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+76,vitamin-b9,Spina bifida,Children,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+77,vitamin-b9,Anencephaly,Children,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+78,vitamin-b9,Cleft palate,Children,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+79,vitamin-b9,Heart defects,Children,Female,https://www.hsph.harvard.edu/nutritionsource/folic-acid
+80,vitamin-b12,Pernicious Anemia,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+81,vitamin-b12,Fatigue,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+82,vitamin-b12,Shortness of breath,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+83,vitamin-b12,Pale or jaundiced skin,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+84,vitamin-b12,Smooth tongue,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+85,vitamin-b12,Difficulty walking,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+86,vitamin-b12,Numbness and tingling in hands and feet,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+87,vitamin-b12,Cognitive changes,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+88,vitamin-b12,Memory loss,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+89,vitamin-b12,Depression,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-b12
+90,vitamin-c,Scurvy,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+91,vitamin-c,Fatigue,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+92,vitamin-c,Muscle pain,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+93,vitamin-c,"Swollen, bleeding gums",Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+94,vitamin-c,Joint pain,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+95,vitamin-c,Anemia,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+96,vitamin-c,Dry and scaly skin,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+97,vitamin-c,Weak immune system,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+98,vitamin-c,Bruising easily,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+99,vitamin-c,Slow wound healing,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-c
+100,vitamin-d,Rickets (in children),Children,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+101,vitamin-d,Osteomalacia (in adults),Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+102,vitamin-d,Muscle weakness,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+103,vitamin-d,Bone pain,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+104,vitamin-d,Soft bones,Children,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+105,vitamin-d,Fractures,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+106,vitamin-d,Delayed tooth formation,Children,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+107,vitamin-d,Impaired growth,Children,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+108,vitamin-d,Poor immune function,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+109,vitamin-d,Mood disturbances,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-d
+110,vitamin-e,Hemolytic Anemia,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+111,vitamin-e,Nerve Damage,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+112,vitamin-e,Muscle weakness,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+113,vitamin-e,Vision problems,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+114,vitamin-e,Impaired coordination,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+115,vitamin-e,Tremors,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+116,vitamin-e,Ataxia,Elderly,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+117,vitamin-e,Peripheral neuropathy,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+118,vitamin-e,Retinopathy,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+119,vitamin-e,Immune system impairment,Adults,Male,https://www.hsph.harvard.edu/nutritionsource/vitamin-e
+120,vitamin-k,Bleeding disorders,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+121,vitamin-k,Easy bruising,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+122,vitamin-k,Heavy menstrual bleeding,Women,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+123,vitamin-k,Blood in urine or stool,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+124,vitamin-k,Nosebleeds,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+125,vitamin-k,Hemorrhagic disease of the newborn,Newborns,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+126,vitamin-k,Osteoporosis,Elderly,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+127,vitamin-k,Impaired wound healing,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+128,vitamin-k,Hematoma,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k
+129,vitamin-k,Gastrointestinal bleeding,Adults,Female,https://www.hsph.harvard.edu/nutritionsource/vitamin-k

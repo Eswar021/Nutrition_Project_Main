@@ -1,0 +1,36 @@
+<!-- VitaminDeficiency.html -->
+{% extends 'app1/base.html' %}
+
+{% block title %}Recommendation Results{% endblock %}
+
+{% block content %}
+    <h1 class="display-4">Recommendation Results</h1>
+
+    <h2 class="mt-4">Food Items</h2>
+    <ul class="list-group">
+        {% for food_item in food_items %}
+            <li class="list-group-item">{{ food_item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2 class="mt-4">Major Chances for Diseases</h2>
+    <ul class="list-group">
+        {% for disease in diseases %}
+            <li class="list-group-item">{{ disease }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2 class="mt-4">Signs of Deficiency and Toxicity</h2>
+    {% for line in deficiency_toxicity_text %}
+    <p>{{ line }}</p>
+    {% endfor %}
+
+    <h2 class="mt-4">Summary</h2>
+    <p>{{ final_summary }}</p>
+
+    <form method="POST" class="mt-4 p-4 bg-dark text-light rounded">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary btn-lg mt-3">Submit</button>
+    </form>
+{% endblock %}

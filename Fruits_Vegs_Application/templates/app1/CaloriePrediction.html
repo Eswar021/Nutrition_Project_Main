@@ -1,0 +1,28 @@
+<!-- CaloriePrediction.html -->
+{% extends 'app1/base.html' %}
+
+{% block title %}Energy Prediction System{% endblock %}
+
+{% block content %}
+    <h1 class="text-primary">Welcome to the Calorie Prediction System</h1>
+    <form method="POST" class="nutrient-form mt-4 p-4 bg-dark text-light rounded">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary btn-lg mt-3">Submit</button>
+    </form>
+    
+    {% if result %}
+        <div class="result-section">
+            <h3 class="text-success">Calories: {{ Energy }}</h3>
+            <!-- <h3>Ingredients: {{ predicted_item }}</h3> -->
+            <br>
+            <br>
+            <h3>Similar items:</h3>
+            <ul class="custom-list">
+                {% for item in similar_items %}
+                    <li class="black-text">{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+{% endblock %}

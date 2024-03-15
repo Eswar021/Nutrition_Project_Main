@@ -1,0 +1,28 @@
+to install the required packages run the below command line in terminal
+1. create a virtual environment of python 3.12 
+2. pip install -r requirements.txt
+3. run the model.ipynb, after running the model.ipynb now the model will be stored in the required directory
+4. now go to project directory and run the app "python manage.py runserver"
+
+
+
+python version: python 3.12
+
+libraries used
+
+*Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass* -- if facing trouble activating environment run this command in the termical of the current directory
+-
+Package         Version
+--------------- -----------
+Django          5.0.3
+pandas          2.2.1
+pip             24.0
+scikit-learn    1.4.1.post1
+scipy           1.12.0
+bs4             0.0.2
+transformers
+SentencePiece
+torch
+
+
+*pip3 install torch torchvision torchaudio

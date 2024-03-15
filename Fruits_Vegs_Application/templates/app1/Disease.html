@@ -1,0 +1,59 @@
+<!-- Disease.html -->
+{% extends 'app1/base.html' %}
+
+{% block title %}Disease Information{% endblock %}
+
+{% block content %}
+    <h1>Disease Information</h1>
+
+    <div>
+        <h2>Treatment:</h2>
+        <ul>
+            {% for treat in Treatment %}
+                <li>{{ treat }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div>
+        <h2>Food Items:</h2>
+        <ul>
+            {% for item in food_items %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div>
+        <h2>Signs of Deficiency and Toxicity:</h2>
+        <ul>
+            {% for text in deficiency_toxicity_text %}
+                <li>{{ text }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div>
+        <h2>Related Diseases:</h2>
+        <ul>
+            {% for disease in diseases %}
+                <li>{{ disease }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div>
+        <h2>Causes:</h2>
+        <ul>
+            {% for cause in causes %}
+                <li>{{ cause }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <form method="POST" class="disease-form mt-4 p-4 bg-dark text-light rounded">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" class="btn btn-primary btn-lg mt-3" value="Submit">
+    </form>
+{% endblock %}
